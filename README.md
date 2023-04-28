@@ -1,6 +1,13 @@
-## 👋🏻 Hello!  I'm Jason Doze, a DevOps Engineer focused on automation and system reliability.
+<table style="width:100%;">
+  <tr>
+    <td style="text-align:left;"><img src="https://media.giphy.com/media/hrXV1CvTk55kguYmUu/giphy.gif" width="100" height="100" style="margin-right:20px;" /></td>
+    <td style="text-align:left;"><h2>Hello! I'm Jason Doze, a DevOps Engineer focused on automation and system reliability.</h2></td>
+    <td style="text-align:right;"><img src="https://media.giphy.com/media/hrXV1CvTk55kguYmUu/giphy.gif" width="100" height="100" style="margin-left:20px;" /></td>
+  </tr>
+</table>
 
 <br>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jason-Doze&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats card">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Doze&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
