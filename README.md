@@ -16,7 +16,10 @@
 
 <br>
 
-### Social:
+### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdoze/) 
+[![Twitter](https://img.shields.io/twitter/follow/JasonDoze?color=%231DA1F2&label=Follow%20%40JasonDoze&logo=twitter&style=for-the-badge)](https://twitter.com/JasonDoze)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
