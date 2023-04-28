@@ -1,13 +1,9 @@
-## Jason Doze
-👋🏻 Hello! I'm Jason, a DevOps Engineer focused on automation and system reliability.
+## 👋🏻 Hello!  I'm Jason Doze, a DevOps Engineer focused on automation and system reliability.
 
 <br>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jason-Doze&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Doze&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages card" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Jason-Doze&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats card">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Doze&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
 <br>
 
