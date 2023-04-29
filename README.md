@@ -1,7 +1,7 @@
 <table style="width:100%;">
   <tr>
     <td style="text-align:left;"><img src="https://media.giphy.com/media/hrXV1CvTk55kguYmUu/giphy.gif" width="100" height="100" style="margin-right:20px;" /></td>
-    <td style="text-align:center;"><h2>DevOps Engineer focused on automation and system reliability.</h2></td>
+    <td style="text-align:center;"><h2>Hey! I'm Jason, a DevOps Engineer focused on automation and system reliability.</h2></td>
     <td style="text-align:right;"><img src="https://media.giphy.com/media/hrXV1CvTk55kguYmUu/giphy.gif" width="100" height="100" style="margin-left:20px;" /></td>
   </tr>
 </table>
